@@ -19,8 +19,8 @@ namespace Funções___Atividade
             
         static void Main(string[] args)
         {   
-            string[] nomes = new string[2];
-            float[] medias = new float[2];
+            string[] nomes = new string[10];
+            float[] medias = new float[10];
             float[] notas = new float[4];
 
             for(int i = 0; i < nomes.Length; i++){
