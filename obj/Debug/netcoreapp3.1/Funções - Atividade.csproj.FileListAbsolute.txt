@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.exe
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.deps.json
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.dll
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\bin\Debug\netcoreapp3.1\Funções - Atividade.pdb
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.dll
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.pdb
+C:\Users\caisb\OneDrive\Desktop\Funções - Atividade\obj\Debug\netcoreapp3.1\Funções - Atividade.genruntimeconfig.cache
